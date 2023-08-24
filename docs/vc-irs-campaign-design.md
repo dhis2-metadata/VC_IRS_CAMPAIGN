@@ -3,7 +3,7 @@
 IRS is a vector control intervention that consists in the application of a long-lasting, residual insecticide to potential vector resting surfaces (e.g. internal walls, eaves and ceilings of all houses, structures or domestic animal shelters). When vectors come to rest onto the sprayed surfaces, they absorb a lethal dose of insecticide and die.  Thus the mosquitoes are impeded from biting and transmitting the malaria parasite to people in the vicinity.
 IRS can be implemented through campaigns where spray teams visit each household of the target area and spray all eligible structures in the household, provided they are granted permission by household owners.
 
-# Event configuration
+## Event configuration
 
 | Sections                            | Description     |
 |-------------------------------------|-------|
@@ -14,59 +14,59 @@ IRS can be implemented through campaigns where spray teams visit each household 
 | Status            | Tick box to complete the event registration      |
 | Comment       | Writing box to allow any kind of reporting of additional accompanying notes       |
 
-## Data elements
+### Data elements
 
-The full list of data elements is available in the [Metadata Reference File](resources/VC-IRS-CAMPAIGN.xlsx).
+The full list of data elements is available in the Metadata Reference File.
 
-# Event details
+## Event details
 
-## New event registration
+### New event registration
 
-New campaign registration](resources/images/VC_IRS_CAM_001.png)
+![New campaign registration](resources/images/VC_IRS_CAM_001.png)
 
 The event requires the reporting institution and the organization unit where the activity was carried out. Being a campaign taking place at the lowest level of reporting, the community itself and its households, the implementation needs to choose carefully the level of reporting in order to be able to analyze and identify correctly the campaign, while being able to integrate the results in the national routine HMIS.
 
-## Basic Info
+### Basic Info
 
-[Campaign’s start date](resources/images/VC_IRS_CAM_002.png)
+![Campaign’s start date](resources/images/VC_IRS_CAM_002.png)
 
-## Intervention Timing
+### Intervention Timing
 
-[Intervention population composition](resources/images/VC_IRS_CAM_003.png)
+![Intervention population composition](resources/images/VC_IRS_CAM_003.png)
 
 The section provides info on the campaign’s start date as well as the number of men and women in the targeted area,
 
-## Insecticide and formulation sprayed
+### Insecticide and formulation sprayed
 
-[Formulation of insecticide used during the campaign](resources/images/VC_IRS_CAM_004.png)
+![Formulation of insecticide used during the campaign](resources/images/VC_IRS_CAM_004.png)
 
 The section reports the product, its active ingredient, its concentration, and the qiaontity of used formulation during the campaign.
 
-## IRS Campaign Results
+### IRS Campaign Results
 
-[Outcome of the campaign](resources/images/VC_IRS_CAM_005.png)
+![Outcome of the campaign](resources/images/VC_IRS_CAM_005.png)
 
 The campaign's final numbers are to be reported in the results section. 
 
-## Status and Comments
+### Status and Comments
 
-[Status and comments](resources/images/VC_IRS_CAM_006.png)
+![Status and comments](resources/images/VC_IRS_CAM_006.png)
 
-# Analytics
+## Analytics
 
-## Program rules
+### Program rules
 
-The program rules of the program are available in the [Metadata Reference File](resources/VC-IRS-CAMPAIGN.xlsx).
+The program rules of the program are available in the Metadata Reference File.
 
-## Program indicators
+### Program indicators
 
-The list of PIs and indicators is available in the [Metadata Reference File](resources/VC-IRS-CAMPAIGN.xlsx).
+The list of PIs and indicators is available in the Metadata Reference File.
 
 It should be noted that some of the key PIs are available for consultation directly in the data entry page on the top right of the screen. 
 
-[Core IRS campaign info](resources/images/VC_IRS_CAM_007.png)
+![Core IRS campaign info](resources/images/VC_IRS_CAM_007.png)
 
-# Visualizations
+## Visualizations
 
 The package comes with a predefined VC-IRS-CR (Campaign Results) dashboard.
 The table below provides the naming and info about the visualizations.
