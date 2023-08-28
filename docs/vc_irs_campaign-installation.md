@@ -1,4 +1,4 @@
-# EVector Control - Indoor Residual Spraying - Campaigns { #vc-irs-campaign-installation }
+# Vector Control - Indoor Residual Spraying - Campaigns { #vc-irs-campaign-installation }
 
 You will have to follow the instructions in full for each separate package that you install.
 
