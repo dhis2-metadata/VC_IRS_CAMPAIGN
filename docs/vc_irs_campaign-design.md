@@ -14,10 +14,6 @@ IRS can be implemented through campaigns where spray teams visit each household 
 | Status            | Tick box to complete the event registration      |
 | Comment       | Writing box to allow any kind of reporting of additional accompanying notes       |
 
-### Data elements
-
-The full list of data elements is available in the [Metadata Reference File](resources/VC-IRS-CAMPAIGN.xlsx).
-
 ## Event details
 
 ### New event registration
@@ -53,16 +49,6 @@ The campaign's final numbers are to be reported in the results section.
 ![Status and comments](resources/images/VC_IRS_CAM_006.png)
 
 ## Analytics
-
-### Program rules
-
-The program rules of the program are available in the [Metadata Reference File](resources/VC-IRS-CAMPAIGN.xlsx).
-
-### Program indicators
-
-The list of PIs and indicators is available in the [Metadata Reference File](resources/VC-IRS-CAMPAIGN.xlsx).
-
-It should be noted that some of the key PIs are available for consultation directly in the data entry page on the top right of the screen. 
 
 ![Core IRS campaign info](resources/images/VC_IRS_CAM_007.png)
 
