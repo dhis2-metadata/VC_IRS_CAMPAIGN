@@ -1,4 +1,4 @@
-# IRS Campaign { #vc-irs-campaign }
+# IRS Campaign { #vc-irs-campaign-design }
 
 IRS is a vector control intervention that consists in the application of a long-lasting, residual insecticide to potential vector resting surfaces (e.g. internal walls, eaves and ceilings of all houses, structures or domestic animal shelters). When vectors come to rest onto the sprayed surfaces, they absorb a lethal dose of insecticide and die.  Thus the mosquitoes are impeded from biting and transmitting the malaria parasite to people in the vicinity.
 IRS can be implemented through campaigns where spray teams visit each household of the target area and spray all eligible structures in the household, provided they are granted permission by household owners.
