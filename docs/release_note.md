@@ -2,4 +2,4 @@
 
 ## 1.0.0
 
-Initial release of the Vector Control -
+Initial release of the Vector Control - Indoor Residual Spraying - Campaigns package
