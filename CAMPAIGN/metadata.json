@@ -5422,15 +5422,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "0339321",
-        "DHIS2Version": "2.38.3.1",
+        "DHIS2Build": "4119e92",
+        "DHIS2Version": "2.38.4.3",
         "code": "VC_IRS_CAMPAIGN",
-        "description": "",
-        "healthAreaCode": null,
-        "healthAreaName": null,
-        "lastUpdated": "20230727T125631",
+        "description": "New release for IRS Campaigns",
+        "healthAreaCode": "ENTO",
+        "healthAreaName": "Entomology and Vector Control",
+        "lastUpdated": "20230829T125940",
         "locale": "en",
-        "name": "VC_IRS_CAMPAIGN_EVT_DHIS2.38.3.1-en",
+        "name": "VC_IRS_CAMPAIGN_EVT_DHIS2.38.4.3-en",
         "type": "EVT",
         "version": ""
     },
@@ -5442,13 +5442,13 @@
             "aggregationType": "SUM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "NjRfVjWwLrq",
+                    "id": "woRbYlQJ92o",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5459,13 +5459,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "woRbYlQJ92o",
+                    "id": "NjRfVjWwLrq",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5533,13 +5533,13 @@
             "aggregationType": "SUM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "OZJtut3tcN8",
+                    "id": "EAQRIFOg3XX",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5550,13 +5550,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "EAQRIFOg3XX",
+                    "id": "OZJtut3tcN8",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5618,13 +5618,13 @@
             "aggregationType": "AVERAGE",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "xjMrSS99KiT",
+                    "id": "q92jEV6YI7l",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5635,13 +5635,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "q92jEV6YI7l",
+                    "id": "xjMrSS99KiT",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5709,13 +5709,13 @@
             "aggregationType": "SUM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ZTYWlHgZzJy",
+                    "id": "sdGbz9sFVeS",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5726,13 +5726,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "sdGbz9sFVeS",
+                    "id": "ZTYWlHgZzJy",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5799,13 +5799,13 @@
             "aggregationType": "SUM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "g0Q4f7xbCkT",
+                    "id": "xJyDtHh3g9r",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5816,13 +5816,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "xJyDtHh3g9r",
+                    "id": "g0Q4f7xbCkT",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5890,13 +5890,13 @@
             "aggregationType": "AVERAGE",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "DZrmSTWAKjZ",
+                    "id": "T7fL8l0faJf",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5907,13 +5907,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "T7fL8l0faJf",
+                    "id": "DZrmSTWAKjZ",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -5985,13 +5985,13 @@
             "aggregationType": "SUM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "RpxTmEywEVt",
+                    "id": "WWg0wHqc8lK",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -6002,13 +6002,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "WWg0wHqc8lK",
+                    "id": "RpxTmEywEVt",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -6084,8 +6084,8 @@
                 "id": "HLZ7sxdS1SI"
             },
             "evaluationEnvironments": [
-                "ANDROID",
-                "WEB"
+                "WEB",
+                "ANDROID"
             ],
             "evaluationTime": "ALWAYS",
             "id": "lLiW8ZccKX6",
@@ -6101,8 +6101,8 @@
                 "id": "Ae9aLkImjpq"
             },
             "evaluationEnvironments": [
-                "ANDROID",
-                "WEB"
+                "WEB",
+                "ANDROID"
             ],
             "evaluationTime": "ALWAYS",
             "id": "OEsKABxH0Bt",
@@ -6116,8 +6116,8 @@
             "content": "#{VC-IRS- Structures sprayed percent}",
             "data": "#{VC-IRS- Structures sprayed number}*100/#{VC-IRS Structures found}",
             "evaluationEnvironments": [
-                "ANDROID",
-                "WEB"
+                "WEB",
+                "ANDROID"
             ],
             "evaluationTime": "ALWAYS",
             "id": "rnGmyXhsB8W",
@@ -6133,8 +6133,8 @@
                 "id": "EAmMK7oGg9h"
             },
             "evaluationEnvironments": [
-                "ANDROID",
-                "WEB"
+                "WEB",
+                "ANDROID"
             ],
             "evaluationTime": "ALWAYS",
             "id": "xdlqprq004c",
