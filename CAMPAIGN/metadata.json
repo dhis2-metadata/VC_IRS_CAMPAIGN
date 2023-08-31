@@ -5425,7 +5425,7 @@
         "DHIS2Build": "4119e92",
         "DHIS2Version": "2.38.4.3",
         "code": "VC_IRS_CAMPAIGN",
-        "description": "New release for IRS Campaigns",
+        "description": "Vector Control - Insecticide Residual Spraying Campaign",
         "healthAreaCode": "ENTO",
         "healthAreaName": "Entomology and Vector Control",
         "lastUpdated": "20230829T125940",
