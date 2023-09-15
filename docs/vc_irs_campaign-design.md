@@ -18,7 +18,7 @@ IRS can be implemented through campaigns where spray teams visit each household 
 
 ### New event registration
 
-New campaign registration](resources/images/VC_IRS_CAM_001.png)
+!New campaign registration](resources/images/VC_IRS_CAM_001.png)
 
 The event requires the reporting institution and the organization unit where the activity was carried out. Being a campaign taking place at the lowest level of reporting, the community itself and its households, the implementation needs to choose carefully the level of reporting in order to be able to analyze and identify correctly the campaign, while being able to integrate the results in the national routine HMIS.
 
